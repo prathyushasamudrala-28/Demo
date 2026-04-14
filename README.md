@@ -1,4 +1,4 @@
-# Demo
+# First Repository
 This is my First Git Repository.
 <br>
 Author-Prathyusha Samudrala
